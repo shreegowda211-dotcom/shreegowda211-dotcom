@@ -20,11 +20,11 @@
 
 ### 📊 GitHub Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shreegowda211-dotcom&show_icons=true&theme=radical" />
 </p>
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreegowda211-dotcom&theme=radical" />
 </p>
 
 <!--
