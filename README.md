@@ -1,4 +1,31 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Shree</h1>
+<h3 align="center">A passionate Web Developer from India 🇮🇳</h3>
+
+---
+
+### 👨‍💻 About Me
+- 🌱 I’m currently learning **React & Web Development**
+- 💻 Interested in Open Source
+- 🚀 Goal: Become a skilled full-stack developer
+- ⚡ Fun fact: I love learning by building projects
+
+---
+
+### 🛠️ Languages & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,java" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
+</p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
+</p>
 
 <!--
 **shreegowda211-dotcom/shreegowda211-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
