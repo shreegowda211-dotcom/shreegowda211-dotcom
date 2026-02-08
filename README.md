@@ -20,7 +20,7 @@
 
 ### 📊 GitHub Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=shreegowda211-dotcom&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?user=shreegowda211-dotcom&show_icons=true&theme=radical" />
 </p>
 
 <p>
