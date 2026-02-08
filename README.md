@@ -1,64 +1,119 @@
-<h1 align="center">Hey 👋 I'm Shree</h1>
-<h3 align="center">Web Developer | React Learner | Open Source Explorer 🚀</h3>
+# Hi there, I'm Shree 👋
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shreegowda211-dotcom&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+<div align="center">
 
----
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Diploma+CSE+Student;Web+Development+Enthusiast;Learning+React+%26+Open+Source;Building+Projects+Step+by+Step)
 
-## 👨‍💻 About Me
-- 🎓 College student passionate about **Web Development**
-- 🌱 Currently learning **React, JavaScript & Git**
-- 🔥 Interested in **Open Source Contributions**
-- 💡 Believe in learning by **building & breaking things**
-- 🎯 Goal: Become a strong **Full-Stack Developer**
+</div>
 
 ---
 
-## 🛠 Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,java,vscode" />
-</p>
+## 🚀 About Me
+
+I’m a **Diploma Computer Science & Engineering student** who loves learning by building real projects.  
+I’m currently focused on **Web Development**, improving my **GitHub profile**, and contributing to **open source**.
+
+- 🎓 Diploma CSE – *SDM Polytechnic, Ujire*  
+- 🌱 Currently learning **React, Node.js & Git/GitHub**  
+- 💻 Interested in **Frontend & Full-Stack Development**  
+- 🏆 Active in **technical events & competitions**  
+- 🚀 Goal: Become a skilled software developer  
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreegowda211-dotcom&show_icons=true&theme=tokyonight" />
-</p>
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreegowda211-dotcom&theme=tokyonight" />
-</p>
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="48" /><br>HTML</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="48" /><br>CSS</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=js" width="48" /><br>JavaScript</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="48" /><br>React</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="48" /><br>Node.js</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=java" width="48" /><br>Java</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=python" width="48" /><br>Python</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql" width="48" /><br>MySQL</td>
+</tr>
+<tr>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb" width="48" /><br>MongoDB</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48" /><br>Git</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=github" width="48" /><br>GitHub</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="48" /><br>VS Code</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=postman" width="48" /><br>Postman</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-## 📌 Featured Projects
-👉 Check out my pinned repositories below ⬇️  
-More exciting projects coming soon 🚀
+## 🏆 Achievements & Activities
+
+- 🥇 **1st Prize** – 3D Animation (District Level)  
+- 🥈 **2nd Prize** – Frontend Development Competition  
+- 🥇 **1st Prize** – Mathematics Collage Competition  
+- 🤝 **NSS Camp Participant**  
+- 🎯 Actively participating in college & technical events  
 
 ---
 
-## 🤝 Let’s Connect
-- 💼 GitHub: https://github.com/shreegowda211-dotcom
-- 📧 Email: shreegowda211@gmail.com
-- [Shree](profiles/shreegowda211-dotcom.md)
+## 📊 GitHub Analytics
 
-⭐ If you like my work, consider giving a star!
+<div align="center">
+
+<img height="180em"
+src="https://github-readme-stats-sigma-five.vercel.app/api?username=shreegowda211-dotcom&show_icons=true&theme=radical" />
+
+<img height="180em"
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shreegowda211-dotcom&theme=github_dark" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shreegowda211-dotcom&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+![Shree's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shreegowda211-dotcom&theme=tokyo-night&hide_border=true)
+
+</div>
+
+---
 
 
-<!--
-**shreegowda211-dotcom/shreegowda211-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌐 Connect With Me
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shreegowda211-dotcom)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreegowda211@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Quote I Believe In
+> *"Start where you are. Use what you have. Do what you can."*
+
+### 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=shreegowda211-dotcom&color=blueviolet&style=flat-square)
+
+</div>
+
+---
+
+<div align="center">
+  <h3>Thanks for visiting my profile! 😊</h3>
+  <p>I'm always open to learning, collaboration, and new opportunities.</p>
+</div>
