@@ -42,7 +42,7 @@ More exciting projects coming soon 🚀
 
 ## 🤝 Let’s Connect
 - 💼 GitHub: https://github.com/shreegowda211-dotcom
-- 📧 Email: (add later if you want)
+- 📧 Email: shreegowda211@gmail.com
 
 ⭐ If you like my work, consider giving a star!
 
