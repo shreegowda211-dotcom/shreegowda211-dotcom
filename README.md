@@ -1,4 +1,4 @@
-# Hi there, I'm Shree 👋
+# Hi there, I'm Shree Gowda👋
 
 <div align="center">
 
