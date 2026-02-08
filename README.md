@@ -1,31 +1,51 @@
-<h1 align="center">Hi 👋, I'm Shree</h1>
-<h3 align="center">A passionate Web Developer from India 🇮🇳</h3>
+<h1 align="center">Hey 👋 I'm Shree</h1>
+<h3 align="center">Web Developer | React Learner | Open Source Explorer 🚀</h3>
 
----
-
-### 👨‍💻 About Me
-- 🌱 I’m currently learning **React & Web Development**
-- 💻 Interested in Open Source
-- 🚀 Goal: Become a skilled full-stack developer
-- ⚡ Fun fact: I love learning by building projects
-
----
-
-### 🛠️ Languages & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,java" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shreegowda211-dotcom&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 👨‍💻 About Me
+- 🎓 College student passionate about **Web Development**
+- 🌱 Currently learning **React, JavaScript & Git**
+- 🔥 Interested in **Open Source Contributions**
+- 💡 Believe in learning by **building & breaking things**
+- 🎯 Goal: Become a strong **Full-Stack Developer**
+
+---
+
+## 🛠 Tech Stack
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?user=shreegowda211-dotcom&show_icons=true&theme=radical" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,java,vscode" />
 </p>
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreegowda211-dotcom&theme=radical" />
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shreegowda211-dotcom&show_icons=true&theme=tokyonight" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreegowda211-dotcom&theme=tokyonight" />
+</p>
+
+---
+
+## 📌 Featured Projects
+👉 Check out my pinned repositories below ⬇️  
+More exciting projects coming soon 🚀
+
+---
+
+## 🤝 Let’s Connect
+- 💼 GitHub: https://github.com/shreegowda211-dotcom
+- 📧 Email: (add later if you want)
+
+⭐ If you like my work, consider giving a star!
+
 
 <!--
 **shreegowda211-dotcom/shreegowda211-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
