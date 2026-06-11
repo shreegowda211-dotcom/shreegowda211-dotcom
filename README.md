@@ -11,13 +11,11 @@
 ## 🚀 About Me
 
 I’m a **Diploma Computer Science & Engineering student** who loves learning by building real projects.  
-I’m currently focused on **Web Development**, improving my **GitHub profile**, and contributing to **open source**.
+I’m currently focused on **Web Development**, improving my **skills**, and contributing to **open source**.
 
-- 🎓 Diploma CSE – *SDM Polytechnic, Ujire*  
 - 🌱 Currently learning **React, Node.js & Git/GitHub**  
 - 💻 Interested in **Frontend & Full-Stack Development**  
 - 🏆 Active in **technical events & competitions**  
-- 🚀 Goal: Become a skilled software developer  
 
 ---
 
@@ -116,4 +114,8 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-langu
 <div align="center">
   <h3>Thanks for visiting my profile! 😊</h3>
   <p>I'm always open to learning, collaboration, and new opportunities.</p>
+</div>
+
+<div align="center">
+  Made with ♥ by **Shree.Gowda**
 </div>
